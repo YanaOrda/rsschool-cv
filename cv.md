@@ -27,4 +27,8 @@ only basis…(yet)
   
     margin-bottom: 150px;}
  ## Education
-*BSU law faculty
+* BSU law faculty
+
+
+## English :
+* B1
