@@ -1,0 +1,71 @@
+
+body{
+    font-family: 'Khula', sans-serif;
+    
+}
+.container{
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+.menu{
+    height: 50px;
+    padding: 20px 10px;
+    border-bottom: 1px solid black;
+}
+.menu-list{
+    
+    display: table;
+    list-style: none;
+    padding: 0;
+    text-align:justify;
+    
+}
+
+.menu-list li{
+    margin-right: 110px;
+    display: inline-block;
+    padding: 5px;
+    text-align:justify;   
+
+}
+.menu-list li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+.menu-list li a:hover{
+    font-weight: bold;
+}
+
+.items{    
+    height: 180px;
+}
+
+.name{
+    font-weight: 700 ;
+    font-size: 48px;
+    line-height: 59px;
+}
+
+.work{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.back{
+    text-align:center ;
+    margin-top: -340px;
+    margin-left: 50px;
+
+}
+
+
+.items-p{
+    margin-top: 100px;
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 5px;
+}
